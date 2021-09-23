@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Abstraction.unity
     guid: 024184acf891e634b9d9110f00028f0a
+  - enabled: 1
+    path: Assets/Scenes/Polymorphism.unity
+    guid: f73649467c9629842aa54977e881dced
   m_configObjects: {}
