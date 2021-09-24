@@ -31,4 +31,15 @@ public class MenuUIHandler : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+
+    public void Inheritance()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+    public void Back()
+    {
+        SceneManager.LoadScene(0);
+    }
 }
+
