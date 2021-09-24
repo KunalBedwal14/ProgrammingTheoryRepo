@@ -17,8 +17,13 @@ public class MenuUIHandler : MonoBehaviour
         
     }
 
-    public void StartNew()
+    public void Abstraction()
     {
         SceneManager.LoadScene(1);
+    }
+
+    public void Encapsulation()
+    {
+        SceneManager.LoadScene(2);
     }
 }
